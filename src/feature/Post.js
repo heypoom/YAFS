@@ -26,5 +26,4 @@ const actions = {
   }
 }
 
-
 export default createFeature('post', {state, actions})
