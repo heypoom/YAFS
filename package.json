@@ -1,6 +1,6 @@
 {
-  "name": "axi-engine",
-  "description": "Computational Engine for the Axi Platform.",
+  "name": "yafs",
+  "description": "Yet Another Flux Store",
   "license": "MIT",
   "version": "0.0.1",
   "homepage": "",
